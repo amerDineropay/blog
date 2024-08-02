@@ -1,0 +1,29 @@
+{
+  "article": {
+    "relatedArticles": "مقالات مقترحة",
+    "featured": "إعلان"
+  },
+  "landingPage": {
+    "latestArticles": "المقالات الحديثة"
+  },
+  "common": {
+    "homepage": "Startseite",
+    "regionalSettings": "اختر اللغة",
+    "language": "اللغة",
+    "languageDrawer": "اختر اللغة"
+  },
+  "footer": {
+    "help": "المساعدة والموارد",
+    "faq": "الأسئلة الشائعة",
+    "dev": "مطورين",
+    "contact": "تواصل معنا",
+    "sales": "المبيعات",
+    "supp": "الدعم",
+    "tel": "الهاتف",
+    "blog": "المدونة"
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "نعتذر ولكن الصفحة اللتي تحاول الوصول اليها غير موجودة"
+  }
+}

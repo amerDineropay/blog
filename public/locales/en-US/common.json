@@ -1,0 +1,29 @@
+{
+  "article": {
+    "relatedArticles": "Related articles",
+    "featured": "featured"
+  },
+  "landingPage": {
+    "latestArticles": "Latest articles"
+  },
+  "common": {
+    "regionalSettings": "Choose a Language",
+    "homepage": "Homepage",
+    "language": "Language",
+    "languageDrawer": "Toggle language drawer"
+  },
+  "footer": {
+    "help": "Help and resource",
+    "faq": "FAQ",
+    "dev": "API documentation",
+    "contact": "Contact us",
+    "sales": "Sales",
+    "supp": "Support",
+    "tel": "Telephone",
+    "blog": "Blog"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This page doesn't seem to exist. <0>Click here</0> to go back the homepage."
+  }
+}
